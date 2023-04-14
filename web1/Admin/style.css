@@ -1,0 +1,144 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* General Styles */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #f8f8f8;
+  }
+  
+  .container {
+    max-width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .leftColumn {
+    width: 20%;
+  }
+  
+  .rightColumn {
+    width: 100%;
+  }
+  
+  /* Header */
+  header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  header h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .user {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user p {
+    margin-right: 10px;
+  }
+  
+  /* Left Column */
+  .group-box {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .group-box .title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .leftMenu ul {
+    list-style-type: none;
+  }
+  
+  .leftMenu li {
+    margin-bottom: 10px;
+  }
+  
+  .leftMenu a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .leftMenu a:hover {
+    color: #999;
+  }
+  
+  /* Main Content */
+  main {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  main label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  main input[type="text"],
+  main input[type="date"],
+  main input[type="time"],
+  main input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  main input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  main input[type="submit"]:hover {
+    background-color: #555;
+  }
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
