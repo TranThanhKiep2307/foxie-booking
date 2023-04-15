@@ -91,7 +91,7 @@ $activate = "about";
                         <p class="counter">Lộ trình </p>
                     </div>
                     <div class="clearfix"> </div>
-                    /
+
                 </div>
             </div>
             <div class="col-sm-3 col-6 mt-sm-0 mt-5 w3_agile_stats_grid-top">
@@ -127,7 +127,7 @@ $activate = "about";
 <section class="food-Slider py-5">
     <div class="container py-lg-5">
         <h3 class="heading text-capitalize text-center">Về chuyến bay của chúng tôi </h3>
-        <h2 class="heading2  text-center"> Gợi ý</h2>
+        <h1 class="heading2  text-center"> Gợi ý</h1>
 
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
