@@ -7,7 +7,7 @@ $activate = "about";
 <!-- about -->
 <section class="about py-5">
     <div class="container py-lg-5 py-3">
-        <h3 class="heading text-capitalize text-center">WELCOME!
+        <h3 class="heading text-capitalize text-center">Welcome
 
         </h3>
         <h5 class="heading mb-5 text-center">Chào mừng bạn đến với dịch vụ chuyến bay uy tín nhất Việt Nam </h5>

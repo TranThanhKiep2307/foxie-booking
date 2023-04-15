@@ -2260,3 +2260,22 @@ h1 {
   input[type="submit"]:hover {
     background-color: #00557f;
   }
+  table {
+	border-collapse: collapse;
+	width: 100%;
+  }
+  
+  th, td {
+	text-align: left;
+	padding: 8px;
+  }
+  
+  th {
+	background-color: #4CAF50;
+	color: white;
+  }
+  
+  tr:nth-child(even) {
+	background-color: #f2f2f2;
+  }
+  
