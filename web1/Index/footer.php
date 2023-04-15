@@ -23,7 +23,7 @@
 					<div class="blog-grids row mb-3">
 						<div class="col-4 pr-0 blog-grid-left">
 							<a href="#">
-								<img src="images/1..webp" class="img-fluid" alt="">
+								<img src="images/ve-2.jpg" class="img-fluid" alt="">
 							</a>
 						</div>
 						<div class="col-8 blog-grid-right">
