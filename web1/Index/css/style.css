@@ -330,12 +330,12 @@ h3.logo a.navbar-brand i {
 	flex-direction: column;
 	width: 100%;
 	pointer-events: auto;
-	background: url(../images/banner3.jpg) no-repeat center #fff;
+	background: url(../images/ve-7.jpg) no-repeat center #fff;
 	background-size: cover;
 	border: 6px solid #fff;
 	border-radius: 0rem;
 	outline: 0;
-	color: #fff;
+	color: #000;
 }
 
 .form-control {
@@ -361,7 +361,7 @@ h3.logo a.navbar-brand i {
 .col-form-label {
 	text-transform: uppercase;
 	font-weight: 600;
-	color: #fff;
+	color: #131313;
 	font-size: 13px;
     letter-spacing: 2px;
 }
@@ -2207,7 +2207,7 @@ form {
   }
   
   h1 {
-    color: #ffc107;
+    color: #006699;
     font-size: 28px;
     margin-bottom: 20px;
   }
@@ -2238,7 +2238,7 @@ form {
   }
   
   input[type="submit"] {
-    background-color: #ffc107;
+    background-color: #006699;
     border: none;
     border-radius: 5px;
     color: #fff;
@@ -2258,7 +2258,7 @@ h1 {
 }
 
   input[type="submit"]:hover {
-    background-color: #ffc107;
+    background-color: #00557f;
   }
   table {
 	border-collapse: collapse;
@@ -2271,7 +2271,7 @@ h1 {
   }
   
   th {
-	background-color: #778899;
+	background-color: #4CAF50;
 	color: white;
   }
   
