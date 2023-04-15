@@ -12,6 +12,7 @@ $activate = "about";
 <section class="about py-5">
     <div class="container py-lg-5 py-3">
         <h3 class="heading text-capitalize text-center">Kết quả tìm kiếm chuyến bay</h3>
+        <br></br>
         
 	<!-- //Booking -->
 
@@ -47,8 +48,19 @@ if (isset($_SESSION['chuyenbay'])) {
 	echo "</tbody>";
 	echo "</table>";
 	unset($_SESSION['chuyenbay']);
+
 } else {
-	echo '<p style="color: red;">Không có chuyến bay nào cả.</p>';
+	echo '<p style="
+    background-color: #ffc107;
+    color: #a94442;
+    padding: 10px;
+    margin: auto; /* Thêm thuộc tính margin là auto */
+    border-radius: 5px;
+    position: fixed; /* Thêm thuộc tính position là fixed */
+    top: 35%; /* Đặt top là 50% */
+    left: 50%; /* Đặt left là 50% */
+    transform: translate(-50%, -50%); /
+    ">Không có chuyến bay nào cả.</p>';
 }
 
 ?>
