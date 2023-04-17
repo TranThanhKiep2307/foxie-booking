@@ -571,7 +571,7 @@ label{
 .banner-img.one,
 .banner-img.two,
 .banner-img.three {
-	background: url(../images/banner1.jpg) no-repeat 0px 0px;
+	background: url(../images/NHATRANG.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
@@ -581,15 +581,33 @@ label{
 }
 
 .banner-img.one {
-	background: url(../images/banner2.jpg) no-repeat 0px 0px;
+	background: url(../images/hanoi.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+	min-height: 710px;
 }
 
 .banner-img.two {
-	background: url(../images/banner5.jpg) no-repeat 0px 0px;
+	background: url(../images/HUE.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+	min-height: 710px;
 }
 
 .banner-img.three {
-	background: url(../images/banner3.jpg) no-repeat 0px 0px;
+	background: url(../images/dannang.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+	min-height: 710px;
 }
 
 .banner-info {
@@ -949,7 +967,7 @@ i.fa.fa-users {
 i.fa.fa-road {
     color: #ff4c4c;
 }
-i.fa.fa-taxi {
+i.fa.fa-plane {
     color: #f48924;
 }
 i.fa.fa-cogs {
@@ -1027,41 +1045,41 @@ i.fa.fa-smile {
 	-o-transition: 0.5s all;
 }
 .why .grid1{
-	background:url(../images/why1.jpg) no-repeat 0px 0px;
+	background:url(../images/hanoi.jpg) no-repeat 0px 0px;
 	background-size: cover;
 }
 .why .grid2{
-	background:url(../images/why2.jpg) no-repeat 0px 0px;
+	background:url(../images/HN620X465.jpg) no-repeat 0px 0px;
 	background-size: cover;
 }
 .why .grid3{
-	background:url(../images/why3.jpg) no-repeat 0px 0px;
+	background:url(../images/HUE.jpg) no-repeat 0px 0px;
 	background-size: cover;
 }
 .why .grid4{
-	background:url(../images/why4.jpg) no-repeat 0px 0px;
+	background:url(../images/NHATRANG.jpg) no-repeat 0px 0px;
 	background-size: cover;
 }
 .why .grid5{
-	background:url(../images/why2.jpg) no-repeat 0px 0px;
+	background:url(../images/dannang.jpg) no-repeat 0px 0px;
 	background-size: cover;
 }
 .why .grid6{
-	background:url(../images/why3.jpg) no-repeat 0px 0px;
+	background:url(../images/dao.jpg) no-repeat 0px 0px;
 	background-size: cover;
 }
 .why .grid7{
-	background:url(../images/why4.jpg) no-repeat 0px 0px;
+	background:url(../images/bien.jpg) no-repeat 0px 0px;
 	background-size: cover;
 }
 .why .grid8{
-	background:url(../images/why1.jpg) no-repeat 0px 0px;
+	background:url(../images/tp.jpg) no-repeat 0px 0px;
 	background-size: cover;
 }
 .why h4{
-    color: #fff;
+    color: #ffffff;
     font-weight: 800;
-    font-size: 35px;
+    font-size: 15px;
     text-align: center;
     width: 80px;
     height: 80px;
@@ -1076,7 +1094,7 @@ i.fa.fa-smile {
 .why p {
     font-size: 22px;
     font-weight: 600;
-    color: #fff;
+    color: #ffffff;
     font-style: italic;
     letter-spacing: 1px;
     font-family: initial;

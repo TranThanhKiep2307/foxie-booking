@@ -61,7 +61,7 @@
 					echo "<td>{$row['depart_time']}</td>";
 					echo "<td>{$row['price']}</td>";
 					echo "<td><a href='edit_flight.php?id={$row['id']}'>Sửa</a> | <a href='delete_flight.php?id={$row['id']}' onclick='return confirm(\"Bạn chắc chắn muốn xoá chuyến
-bay này?")'>Xoá</a></td>";
+bay này?\")'>Xoá</a></td>";
 echo "</tr>";
 }
 ?>

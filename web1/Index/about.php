@@ -26,7 +26,7 @@ $activate = "about";
                     <h4>Lộ trình </h4>
                 </div>
                 <div class="col-lg-2 col-sm-4 col-6 mt-lg-0 mt-5 about-grid p-0">
-                    <i class="fa fa-taxi" aria-hidden="true"></i>
+                    <i class="fa fa-plane" aria-hidden="true"></i>
                     <h4>Chuyến bay </h4>
                 </div>
                 <div class="col-lg-2 col-sm-4 col-6 mt-lg-0 mt-5 about-grid p-0">
