@@ -188,7 +188,7 @@ $activate = "about";
         <h3>Đặt vé ngay </h3>
         <p class="my-4">Lộ trình cụ thể cùng với đa dạng danh sách ghế ngồi cho hành khách tự do lựa chọn.
             Hãy nhanh tay chọn ngay cho mình một vị trí để bắt đầu chuyến bay! </p>
-        <a href="booking.html">Book Now</a>
+        <a href="booking.php">Book Now</a>
     </div>
 </section>
 <!-- booking -->

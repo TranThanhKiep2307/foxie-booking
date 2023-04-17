@@ -29,7 +29,7 @@ input[type="button"],input[type="submit"],.contact-form input[type="submit"]{
 	-ms-transition:0.5s all;
 }
 h1,h2,h3,h4,h5,h6{
-	margin:0;	
+	margin:10px;	
 }	
 p{
 	margin:0;
@@ -760,7 +760,7 @@ footer {
     bottom: -50%;
 }
 .footer-grid-agileits-w3ls1 p {
-    color: #646464;
+    color: #fff ;
     font-size: 15px;
     outline: none;
      letter-spacing: 1px;
@@ -770,7 +770,7 @@ footer {
     border-top: 1px solid;
 }
 .footer-grid-agileits-w3ls1 a {
-    color: #646464;
+    color: #fff ;
     font-size: 16px;
     outline: none;
     letter-spacing: 1px;
@@ -779,17 +779,18 @@ footer {
     color: #ccc;
 }
 .footer-grid-agileits-w3ls1 a.read {
-    color: #aaa;
-    font-size: 14px;
+    color:#000;
+    font-size: 16px;
     letter-spacing: 2px;
-    padding: 12px 20px;
+    padding: 15px 20px;
     display: inline-block;
     margin-top: 1.5em;
-    background: rgba(241, 245, 249, 0.08);
+	background: #ccc;
+    /* background: rgba(230, 129, 7, 0.08); */
 }
 .footer-grid-agileits-w3ls1 a.read:hover{
-    background: #ddd;
-    color: #333;
+    background: #e19a17;
+    color: #000000;
 }
 
 .subscribe-main input[type="email"] {
@@ -852,8 +853,8 @@ footer {
 	line-height: 1em;
 }
 .tech-btm h5 a {
-    color: #444;
-    font-size: 15px;
+    color: #d9a454;
+    font-size: 20px;
 }
 .tech-btm img {
     border: 2px solid #bbb;
@@ -943,16 +944,16 @@ a.facebook:hover {
 /*-- About Us --*/
 
 h1.heading,h2.heading,h3.heading {
-    font-size: 50px;
+    font-size: 60px;
     font-weight: 800;
     letter-spacing: 3px;
-    color: #333;
+    color: #fff ;
 }
 h5.heading {
     text-transform: uppercase;
     font-size: 15px;
     font-weight: 600;
-    color: #aaa;
+    color: #f9f9fe;
     letter-spacing: 2px;
 }
 .about-grid i.fa,.about-grid i.fas {
@@ -978,7 +979,7 @@ i.fa.fa-smile {
 }
 .about-grid h4 {
     margin-top: 20px;
-    color: #000;
+    color: #f6f6f6;
     font-size: 17px;
     letter-spacing: 1px;
     font-weight: 600;
@@ -1000,7 +1001,7 @@ i.fa.fa-smile {
 }
 
 .about-bottom-grid p {
-    font-size: 15px;
+    font-size: 18px;
     line-height: 30px;
     text-align: left;
     color: #2c2c2c;
@@ -1119,7 +1120,7 @@ i.fa.fa-smile {
     color: #008bff;
 }
 .w3layouts-contact-form-top h3, .contact-form-top h3, .w3agile-map h3, .agileits-contact-address h3 {
-    color: #333;
+    color: #fff;
     font-weight: 600;
     font-size: 25px;
     margin: 0 0 1.5em 0;
@@ -1132,7 +1133,7 @@ i.fa.fa-smile {
     content: "";
     height: 2px;
     width: 10%;
-    background: #333;
+    background: #fff ;
     bottom: -40%;
     left: 0%;
 }
@@ -1392,17 +1393,17 @@ i.fa.fa-smile {
 
 /*-- booking --*/
 .booking{
-	background: #00bcd4;
+	background: #e1b54d;
 }
 .booking h3{
     color: #eee;
     letter-spacing: 2px;
-    font-size: 33px;
-    text-transform: capitalize;
+    font-size: 50px;
+    text-transform: inherit ;
 }
 .booking p {
     margin: 0;
-    font-size: 16px;
+    font-size: 25px;
     color: #ddd;
     letter-spacing: 1px;
     line-height: 30px;
@@ -1422,7 +1423,7 @@ i.fa.fa-smile {
     display: inline-block;
 }
 .booking a:hover {
-    background: #ffc107;
+    background: #113461;
     border: 2px solid #ffc107;
     color: #fff;
 }
@@ -1431,7 +1432,7 @@ i.fa.fa-smile {
 /*-- Team --*/
 .footerv2-w3ls h4 {
     margin-top: 20px;
-    color: #000;
+    color: #ffffff;
     font-size: 18px;
     letter-spacing: 1px;
     font-weight: 600;
@@ -1441,8 +1442,8 @@ i.fa.fa-smile {
     border: 1px solid #ddd;
 }
 .footerv2-w3ls p {
-    font-size: 15px;
-    color: #666;
+    font-size: 20px;
+    color: #ccc7c7 ;
     letter-spacing: 2px;
 }
 
@@ -2134,7 +2135,7 @@ ul.radio-w3ls li {
 		font-size: 1.1em;
 	}
 	.footer-grid-agileits-w3ls1 a.read {
-		font-size: 12px;
+		font-size: 15px;
 	}
 	.w3layouts-agile-copyrightbottom p {
 		 font-size: 15px;
